@@ -32,4 +32,7 @@
 // console.log(typeof(sub))
 
 // WAP to find even or odd number
-const a = 
+// const a = 
+const a = 10;
+const b = '10'
+console.log(a == b);
